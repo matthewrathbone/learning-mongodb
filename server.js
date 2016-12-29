@@ -39,10 +39,6 @@ var insertDocuments = function (db, callback) {
 		console.log('Inserted 3 documents into the collection');
 		callback(result);
 	});
-
-	// The result of this is the following:
-	// - Connected successfully to the server: mongodb://localhost:27017/learning-mongodb
-	// - Inserted 3 documents into the collection
 }
 
 // Find all documents
