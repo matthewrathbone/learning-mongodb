@@ -1,0 +1,24 @@
+{
+  "name": "learning-mongodb",
+  "version": "1.0.0",
+  "description": "Learning MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewrathbone/learning-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewrathbone/learning-mongodb/issues"
+  },
+  "homepage": "https://github.com/matthewrathbone/learning-mongodb#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.16"
+  }
+}
